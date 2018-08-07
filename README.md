@@ -1,0 +1,1 @@
+# AtollicTrueStudioCubeMXSTM32F407VGT
